@@ -1,60 +1,53 @@
-# Online Shop 🛒
+# 🛒 Online Shop
 
-A modern e-commerce website built with HTML, CSS, and JavaScript.
+A modern front-end e-commerce application built with Vanilla JavaScript. This project demonstrates a modular architecture by separating API services, controllers, and UI logic while interacting with a RESTful backend to display products, categories, blogs, invoices, and shopping cart data.
 
-## 📌 About The Project
 
-Online Shop is a frontend e-commerce project that provides a simple and responsive shopping experience.
+## Features
 
-Users can browse products, view product information, add items to the shopping cart, remove products, and manage their selected items.
-
-This project was developed to practice frontend development concepts and build a real-world web application.
-
-## ✨ Features
-
-- Responsive design for different screen sizes
-- Product listing
-- Product details
-- Add to cart functionality
-- Remove products from cart
-- Shopping cart management
+- Browse products by category
 - Dynamic product rendering
-- API integration
-- Modern user interface
+- Shopping cart management
+- Product details
+- Blog section
+- User authentication
+- Invoice page
+- REST API integration
+- Modular JavaScript architecture
+- Clean dashboard-inspired interface
 
-## 🛠 Technologies
+## Project Structure
+
+```
+api/
+controllers/
+db/
+libs/
+src/
+```
+
+## Built With
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript (ES6)
+- Fetch API
+- Local Storage
 - REST API
-- Git & GitHub
 
-## 📂 Project Structure
 
-```
-online-shop/
-│
-├── index.html
-├── css/
-├── js/
-├── images/
-├── assets/
-└── README.md
-```
+## Learning Outcomes
 
-## 🚀 Future Improvements
+This project helped me improve my understanding of:
 
-- User authentication
-- Online payment integration
-- Product search and filtering
-- Admin dashboard
-- Backend development
-- Database integration
+- Building scalable JavaScript applications
+- Working with REST APIs
+- Separating business logic from UI
+- DOM manipulation
+- Asynchronous programming
+- Code organization and reusability
 
-## 👨‍💻 Author
 
-**Mojtaba Sadeghi**
+---
 
-GitHub:
-https://github.com/Mojdeveloper
+Developed by **Mojtaba Sadeghi**
