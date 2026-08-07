@@ -46,7 +46,22 @@ This project helped me improve my understanding of:
 - Asynchronous programming
 - Code organization and reusability
 
+## 📸 Screenshots
 
+### 🏠 Home Page
+![Home Page](./screenshots/slider.png)
+
+### 👟 Products
+![Products](./screenshots/product.png)
+
+### 🗂️ Product Categories
+![Product Categories](./screenshots/productCategory.png)
+
+### 🔎 Product Details
+![Product Details](./screenshots/productDetails.png)
+
+### 🛒 Shopping Basket
+![Shopping Basket](./screenshots/basket.png)
 ---
 
 Developed by **Mojtaba Sadeghi**
