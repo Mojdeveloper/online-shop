@@ -4,15 +4,15 @@ A modern e-commerce website built with HTML, CSS, and JavaScript.
 
 ## 📌 About The Project
 
-Online Shop is a frontend e-commerce project designed to provide a simple and responsive shopping experience.
+Online Shop is a frontend e-commerce project that provides a simple and responsive shopping experience.
 
-Users can browse products, add items to the shopping cart, remove products, and manage their selected items.
+Users can browse products, view product information, add items to the shopping cart, remove products, and manage their selected items.
 
-This project was developed to improve frontend development skills and practice building a real-world web application.
+This project was developed to practice frontend development concepts and build a real-world web application.
 
 ## ✨ Features
 
-- Responsive design
+- Responsive design for different screen sizes
 - Product listing
 - Product details
 - Add to cart functionality
@@ -31,3 +31,30 @@ This project was developed to improve frontend development skills and practice b
 - Git & GitHub
 
 ## 📂 Project Structure
+
+```
+online-shop/
+│
+├── index.html
+├── css/
+├── js/
+├── images/
+├── assets/
+└── README.md
+```
+
+## 🚀 Future Improvements
+
+- User authentication
+- Online payment integration
+- Product search and filtering
+- Admin dashboard
+- Backend development
+- Database integration
+
+## 👨‍💻 Author
+
+**Mojtaba Sadeghi**
+
+GitHub:
+https://github.com/Mojdeveloper
