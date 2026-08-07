@@ -32,7 +32,6 @@ src/
 - CSS3
 - JavaScript (ES6)
 - Fetch API
-- Local Storage
 - REST API
 
 
