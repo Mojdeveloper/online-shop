@@ -49,19 +49,20 @@ This project helped me improve my understanding of:
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/slider.png)
+![Home Page](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/slider.png)
 
 ### 👟 Products
-![Products](./screenshots/product.png)
+![Products](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/product.png)
 
 ### 🗂️ Product Categories
-![Product Categories](./screenshots/productCategory.png)
+![Product Categories](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/productCategory.png)
 
 ### 🔎 Product Details
-![Product Details](./screenshots/productDetails.png)
+![Product Details](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/productDetails.png)
 
 ### 🛒 Shopping Basket
-![Shopping Basket](./screenshots/basket.png)
+![Shopping Basket](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/basket.png)
+
 ---
 
 Developed by **Mojtaba Sadeghi**
