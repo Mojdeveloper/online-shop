@@ -52,13 +52,13 @@ This project helped me improve my understanding of:
 ![Home Page](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/slider.png)
 
 ### 👟 Products
-![Products](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/product.png)
+![Products](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/product.webp)
 
 ### 🗂️ Product Categories
-![Product Categories](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/productCategory.png)
+![Product Categories](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/productCategory.webp)
 
 ### 🔎 Product Details
-![Product Details](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/productDetails.png)
+![Product Details](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/productDetails.webp)
 
 ### 🛒 Shopping Basket
 ![Shopping Basket](https://raw.githubusercontent.com/Mojdeveloper/online-shop/main/screenshots/basket.png)
